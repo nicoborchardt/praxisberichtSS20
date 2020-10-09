@@ -1,6 +1,6 @@
 # praxisberichtSS20
 
-Nico Borchardt 
+Nico Borchardt
 Leica Microsystems
 
 Sommersemester 2020
